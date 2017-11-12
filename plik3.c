@@ -10,7 +10,6 @@ int main()
   string skoder,slamacz,sklucz,sk;
   int i,j,runda;
 
-// generujemy kod kodera
 
   srand((unsigned)time(NULL));
   skoder = "";
