@@ -5,6 +5,7 @@
 
 using namespace std;
 
+// Wazny komentarz
 // Funkcja czeka na dowolny klawisz i czyœci ekran
 //------------------------------------------------
 void czekaj(void)
