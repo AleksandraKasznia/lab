@@ -3,6 +3,7 @@
 
 using namespace std;
 
+// Wazny komentarz
 // Oblicza sumê podanych liczb
 //----------------------------
 string dodaj(string & x, string & y)
