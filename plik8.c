@@ -8,6 +8,7 @@ int main()
   string s1,s2,s3;
   int p,w,i,j,k,n;
 
+  // wazny komentarz
   // odczytujemy liczby do dodawania
 
   cin >> s1 >> s2;
