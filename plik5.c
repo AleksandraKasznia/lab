@@ -35,7 +35,6 @@ int main()
     if((s[i] >= 'A') && (s[i] <= 'Z')) s[i] = 65 + (s[i] - 65 + X % 26) % 26;
   }
 
-// wypisujemy zaszyfrowany tekst
 
   cout << s << endl << endl;
   return 0;
