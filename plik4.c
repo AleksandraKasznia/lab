@@ -6,7 +6,7 @@
 #include <time.h>
 
 using namespace std;
-
+// niezbedny komentarz
 int main()
 {
   string Z[1296],skoder,slamacz,sklucz,sklucz2,sl;

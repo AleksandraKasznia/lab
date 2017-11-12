@@ -1,9 +1,12 @@
 #include <iostream>
 #include <string>
 
+
 using namespace std;
 
+
 // definicje elementów Enigmy
+
 
 const string pierscien_szyfr[5] = {"EKMFLGDQVZNTOWYHXUSPAIBRCJ",
                                    "AJDKSIRUXBLHWTMCQGZNPYFVOE",

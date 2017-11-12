@@ -5,7 +5,7 @@
 #include <time.h>
 
 using namespace std;
-
+//dodany komentarz
 int main()
 {
   const int M = 20; // d³ugoœæ ³añcucha s
