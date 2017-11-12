@@ -71,6 +71,7 @@ int main()
     c = s[i];
 
 // przechodzimy przez ³¹cznicê wtyczkow¹
+//wazny komentarz
 
     c = lacznica[c - 65];
 
