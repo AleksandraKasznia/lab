@@ -2,7 +2,7 @@
 #include <string>
 #include <cstdlib>
 #include <time.h>
-
+//pisze nowy komentarz
 using namespace std;
 
 const int N = 40; // d³ugoœæ ³añcucha s
