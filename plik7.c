@@ -1,3 +1,4 @@
+//autorzy: XYZ ABC
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
