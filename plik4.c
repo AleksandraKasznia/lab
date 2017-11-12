@@ -1,3 +1,4 @@
+//autorzy: XYZ
 #include <iostream>
 #include <iomanip>
 #include <string>
